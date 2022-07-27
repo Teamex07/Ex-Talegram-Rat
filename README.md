@@ -5,7 +5,7 @@ A multifunctional Telegram based Android RAT without port forwarding.
 # Requirements :
 
 Glitch Account(https://glitch.com)
-ApkEasy Tool ( For PC ) or ApkTool Editor ( for Android)
+ApkEasy Tool ( For PC ) or ApkTool Editor ( for Android)apk Editor https://mega.nz/file/GGAgkYzQ#Eal450wliEwWC4KNNFV6YpCeAHKTZv0QoCJu0Kv9MTQ
 
 # How to use :
 
