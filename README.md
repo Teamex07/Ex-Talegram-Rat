@@ -80,3 +80,5 @@ paste your glitch url
   "socket": "wss://xxxx.glitch.me/", 
   "webView": "https://google.com/" 
 }
+
+Video https://t.me/Teamex07/204
