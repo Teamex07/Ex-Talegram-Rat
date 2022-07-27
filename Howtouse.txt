@@ -1,0 +1,96 @@
+Ex Telegram Rat 
+আসসালামুয়ালাইকুম 
+আশা করি সবাই ভালো আছেন।
+আজকে আমরা দেখাবো কিভাবে টেলিগ্রামের মাধ্যমে Rat তৈরী করবেন ভিক্টিমের ফোন হ্যাক করতে পারবেন।
+Rat তৈরি করতে নিচের Step গুলো ফলো করুন।
+
+# Required fields and apk:
+1. Ex-Talegram-Rat-main.zip (already downloaded).
+2. Apk editor.
+3. Telegram.
+
+# Download links:
+1. Apk editor (Mod) : https://mega.nz/file/GGAgkYzQ#Eal450wliEwWC4KNNFV6YpCeAHKTZv0QoCJu0Kv9MTQ
+2. Telegram : https://play.google.com/store/apps/details?id=org.telegram.messenger
+
+Telegram একাউন্ট না থাকলে আগে নিউ একাউন্ট তৈরি করে নেন।
+
+# Step 01:
+Telegram ওপেন করে @BotFather সার্চ করুন  অথবা এই লিংক এ ক্লিক করুন 
+Link: https://t.me/BotFather
+
+# Step 02:
+BotFather এর মেসেজ অপশনে /newbot লেখে সেন্ট করে দেন।
+
+# Step 03:
+BotFather এর মেসেজ অপশনে একটা নিউ bot এর নাম  লেখে সেন্ট করে দেন। 
+For example: MyBot
+
+# Step 04:
+BotFather এর মেসেজ অপশনে আপনার bot এর ইউজারনাম  লেখে সেন্ট করে দেন। 
+Note: Username must end in 'bot'. 
+Example: 'My123_bot' or 'My123bot'
+
+# Step 05:
+আপনি যদি সফল ভাবে bot তৈরি করতে পারেন তাহলে আপনাকে একটা মেসেজ এ congratulations জানানো হবে। এর সাথে আপনাকে একটা bot এর লিংক আর Token দেওয়া হবে। 
+Note: লিংক আর Token নোটস এ কপি করে রাখেন।
+
+# Step 06:
+Telegram ওপেন করে @userinfobot সার্চ করুন  অথবা এই লিংক এ ক্লিক করুন 
+Link: https://t.me/userinfobot
+
+# Step 07:
+userinfobot এর মেসেজ অপশনে /start লেখে সেন্ট করে দেন। এর পরের মেসেজ এ আপনাকে একটা ID সেন্ট করা হবে। 
+Note: ID নোটস এ কপি করে রাখেন।
+
+# Step 07:
+এই বার গুগল ক্রমে নিচের লিংক টি ওপেন করে নেন।
+Link: https://glitch.com
+
+# Step 08:
+মেনু আইকন এ ক্লিক করে sign up এ ক্লিক করে গুগল অ্যাকাউন্ট সিলেক্ট করে একটা নিউ অ্যাকাউন্ট তৈরি করে নেন।
+
+# Step 09:
+অ্যাকাউন্ট তৈরি হয় গেলে আবার মেনু আইকন এ ক্লিক করে New Project এ ক্লিক করুন। তারপরে Hello Node এ ক্লিক করুন। 
+
+
+# Step 10:
+এরপরে Files আইকন এর নিচের সকল ফাইল আর ফোল্ডার গুলা ডিলেট করে Files লেখার পাশে থাকা প্লাস আইকন এ ক্লিক করে Ex-Talegram-Rat-main.zip এ থাকা server.js আর package.json ফাইল দুইটা আপলোড করে দেন।
+
+# Step 11:
+এইবার server.js ফাইল এ ক্লিক করে chatId তে # Step 07 এর কপি করা ID টি পেস্ট করে দেন। তারপর 
+token এর ঐখান এ # Step 05 এর কপি করা Token টি পেস্ট করে দেন। 
+Note: server.js এ আগে যে chatId আর token আসে ওইটার জায়গায় নিউ ID আর Token  টা বসবেন।
+
+# Step 12:
+সব সেটআপ হয় গেলে নিচে থাকা Preview আইকন এ ক্লিক করে Preview in new window এ ক্লিক করেন। যদি রেজাল্ট 'everything is fine now edit the apk src আসে তাহলে আপনার # Step 11 এর কাজ সফল ভাবে হইসে। আর অন্য রেজাল্ট আসলে বুজবেম আপনার # Step 11 তে কিসু ভুল আসে।
+
+# Step 13:
+এবার আপনার নিউ প্রজেক্ট রেডি । Priview পেজ ক্লোজ করে দেন। তারপরে Share বাটন এ ক্লিক করে দেন। তার পরে আপনি Live site এর ঐখান এ একটা লিংক দেখতে পাবেন
+Note: লিংকটা নোটস এ কপি করে রাখেন।
+
+# Step 14:
+এবার Apk editor ওপেন করেন। তারপরে APK file এ ক্লিক করে Ex-Talegram-Rat-main.zip এ থাকা apk2.apk ফাইলটি সিলক্ট করে Full edit এ ক্লিক করে decode partial files সিলেক্ট করে নেন।
+
+# Step 15:
+এবার String এর পাশে থাকা Files বাটন এ ক্লিক করে assets  ফোল্ডার ওপেন করলে key.json নামের একটা ফাইল পাবেন । ওইটা ওপেন করলে নিচের মত কিসু লেখা পাবেন : 
+
+{
+  "host": "https://evilhalfmind.glitch.me/",
+  "socket": "wss://evilhalfmind.glitch.me/",
+  "webView": "https://google.com/"
+}
+
+এইখান থেকে host এর "https://evilhalfmind.glitch.me" চেঞ্জ করে # Step 13 তে কপি করা লিঙ্ক টি পেষ্ট করে দেন। তারপরে  socket এর "evilhalfmind.glitch.me" চেঞ্জ করে # Step 13 তে কপি করা লিঙ্ক টি "https://" বাদ দিয়ে পেষ্ট করে দেন। এইবার নিচের সেভ আইকন এ ক্লিক করে সেভ করে দেন।
+
+# Step 16:
+সেভ করা শেষ হলে ব্যাক বাটন এ ক্লিক করে smail লেখায় ক্লিক করুন। তারপর সাকসেস মেসেজ দেখলে সেটিং আইকন এ ক্লিক করে apk build করে নেন।
+
+# Step 17:
+Apk build শেষ এ ভিকটিম এর মোবাইল এ apk টা ইন্সটল করে দেন এবং সকল permission দিয়ে দেন।
+Note: ভিকটিম এর মোবাইল এ যদি কোনো প্রিমিয়াম অ্যান্টিভাইরাস থাকে তাহলে সেটা apk এর ইন্সটল ব্লক করতে পারে। Google play কোনো ব্লক করবে না।
+
+# Step 18:
+এবার # Step 05 এর লিংক টা ওপেন করলে আপনার bot ওপেন হয় যাবে। এখন Status ⚙ আর Action ☄ এ ক্লিক করে আপনার ইচ্ছে মত bot কে কন্ট্রোল করতে পারবেন।
+
+Stay with us : Team Ex
